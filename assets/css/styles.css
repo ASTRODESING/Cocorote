@@ -31,9 +31,15 @@ nav {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    background-color: var(--color2);
     padding: 13px;
-    backdrop-filter: blur(3px);
+    backdrop-filter: blur(60px);
+    border-bottom: var(--color2) 1px solid;
+    z-index: 100;
+}
+nav a{
+    color: white;
+    font-size: 18px;
+    text-shadow: 0px 0px 10px black;
 }
 a{
     text-decoration: none;
@@ -70,6 +76,22 @@ li {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 }
+
+.sobre-nosotros{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+}
+.sobre-nosotros-text{
+    width: 800px;
+    padding: 20px;
+    border-radius: 30px;
+    box-shadow: 0 0 30px 1px black;
+    margin: 50px;
+    background-color: white;
+}
+
+
 /*@media (max-width: 7) {
     
 }*/
