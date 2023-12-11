@@ -50,14 +50,14 @@ li {
     display: flex;
     flex-direction: row;
 }
-.content{
+.portadat{
     width: 100vw;
     height: 100vh;
     background-image: url("/assets/img/bg-cover.png");
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
 }
 .text-giant{
     width: 100%;
