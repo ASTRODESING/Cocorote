@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fiscalizame!</string>
+    <string name="Text_Welcome">Mediante esta herramienta, las autoridades fiscales podrán realizar un control más eficiente y transparente de los procesos de recaudación, detectando posibles irregularidades de manera oportuna.</string>
+    <string name="Text_Welcome2">Esta herramienta tambien esta dirigida a usted, contribuyente, para que pueda comunicarse con el director de hacienda de manera rapida y eficaz e informar de cualquier inconveniente.</string>
+    <string name="continueButton">Siguiente</string>
+
+</resources>
