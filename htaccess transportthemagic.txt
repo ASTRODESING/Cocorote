@@ -1,0 +1,3 @@
+RewriteOptions inherit
+ErrorDocument 403 /src/index.html
+RewriteRule ^$ /src/ [NC,L]
